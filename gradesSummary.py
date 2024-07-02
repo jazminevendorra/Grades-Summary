@@ -2,7 +2,6 @@
 #course, instructor, and student data stored in a file.
 #
 # Unit 6 Assignment
-# Jazmin Even Dorra
 
 def main():
     # Intro
